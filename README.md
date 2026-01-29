@@ -1,13 +1,13 @@
-#1. Project Title / Headline
+## 1. Project Title / Headline
 
 ## BMW Car Sales Analytics Dashboard (2010–2024)
 An interactive Excel dashboard designed to analyze BMW car sales performance across regions, models, fuel types, transmissions, colors, and engine sizes over a 15-year period.
 
-# 2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 The BMW Car Sales Dashboard provides a comprehensive and visually engaging analysis of BMW’s global sales data from 2010 to 2024. It enables users to explore sales trends, regional performance, customer preferences, and product-level insights to support data-driven business and market analysis.
 
-# 3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -23,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .xlsx for dashboard development and .png for preview/screenshots
 
-4. Data Source
+## 4. Data Source
 
 Source: Internal / Simulated BMW Sales Dataset
 
@@ -47,8 +47,8 @@ Engine Sizes
 
 The dataset is structured to support multi-level filtering and cross-analysis across all visuals.
 
-5. Features / Highlights
-• Business Problem
+## 5. Features / Highlights
+### • Business Problem
 
 BMW operates across diverse global markets with varying customer preferences. Analyzing long-term sales trends across regions, models, and specifications using raw data is time-consuming and inefficient.
 
@@ -62,7 +62,7 @@ Which car colors and engine sizes are most popular?
 
 How have sales evolved over time (2010–2024)?
 
-• Goal of the Dashboard
+### • Goal of the Dashboard
 
 To deliver an interactive Excel dashboard that:
 
@@ -74,7 +74,7 @@ Highlights customer preferences and market trends
 
 Supports strategic decisions in sales, marketing, and product planning
 
-• Walkthrough of Key Visuals
+### • Walkthrough of Key Visuals
 📌 Key KPIs (Top Section)
 
 Total Sales Value
@@ -113,7 +113,7 @@ Analyzes contribution of Petrol, Diesel, Hybrid, and Electric vehicles to total 
 
 Identifies the most popular engine sizes based on sales volume.
 
-• Business Impact & Insights
+### • Business Impact & Insights
 
 Market Strategy: Helps identify high-revenue regions and tailor region-specific strategies
 
@@ -125,7 +125,7 @@ Trend Analysis: Supports long-term sales trend evaluation and forecasting
 
 Executive Reporting: Provides a single, interactive view for quick decision-making
 
-6. Screenshots / Demo
+## 6. Screenshots / Demo
 
 📷 Dashboard Preview
 (Insert dashboard image here)
