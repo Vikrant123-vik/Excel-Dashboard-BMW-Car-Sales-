@@ -128,4 +128,4 @@ Executive Reporting: Provides a single, interactive view for quick decision-maki
 ## 6. Screenshots / Demo
 
 📷 Dashboard Preview
-(Insert dashboard image here)
+([Insert dashboard image here](https://github.com/Vikrant123-vik/Excel-Dashboard-BMW-Car-Sales-/blob/main/Snapshot%20of%20Excel%20Dashboard.png))
